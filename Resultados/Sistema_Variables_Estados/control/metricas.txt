@@ -1,0 +1,7 @@
+--- MÉTRICAS PARA LA TABLA COMPARATIVA ---
+MAE Cadera:    5.3624 grados
+MAE Rodilla:   3.3124 grados
+RMSE Cadera:   5.9680 grados
+RMSE Rodilla:  3.6891 grados
+Esfuerzo RMS:  3.3742 Nm
+Esfuerzo Max:  19.1304 Nm

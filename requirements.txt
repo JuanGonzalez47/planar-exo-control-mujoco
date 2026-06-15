@@ -1,0 +1,12 @@
+# Núcleo matemático y de control
+numpy>=1.24.0
+scipy>=1.10.0
+control>=0.9.4
+sympy>=1.14.0
+
+# Simulación física
+mujoco>=3.0.0
+
+# Visualización y gráficas
+matplotlib>=3.7.0
+mediapy>=1.1.2
