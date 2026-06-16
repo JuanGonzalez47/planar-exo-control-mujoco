@@ -1,0 +1,9 @@
+--- GANANCIAS DEL PID CALCULADAS ANALÍTICAMENTE ---
+Cadera  -> Kp: 210.91, Ki: 70.30, Kd: 28.12
+Rodilla -> Kp: 13.85, Ki: 4.62, Kd: 1.54
+
+--- RESULTADOS EXPERIMENTO 3: PID ---
+MAE Cadera: 0.91°, Rodilla: 1.43°
+RMSE Cadera: 1.01°, Rodilla: 1.79°
+Esfuerzo RMS Cadera: 5.00 Nm, Rodilla: 0.69 Nm
+Esfuerzo Máximo Cadera: 53.97 Nm, Rodilla: 3.73 Nm
