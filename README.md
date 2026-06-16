@@ -4,6 +4,12 @@ Control of a 2-DOF planar exoskeleton leg (hip + knee) using three different str
 
 Each notebook is self-contained: symbolic dynamics (SymPy) → linearization → controller synthesis → MuJoCo simulation → plots and video export.
 
+juanpa/feature/actividad_sociotecnica
+
+
+https://github.com/user-attachments/assets/79a20d2b-b83f-4201-9b42-ac145c7d63c9
+
+
 ## Physical model
 
 The exoskeleton hangs vertically from a fixed base. The thigh (3.3 kg, 0.475 m) and shank (1.1 kg, 0.450 m) are actuated by hip and knee motors (±50 Nm). Gait is tracked against smooth reference trajectories inspired by healthy walking.
