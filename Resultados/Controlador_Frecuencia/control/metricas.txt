@@ -1,0 +1,9 @@
+==========================================================
+  MÉTRICAS DE DESEMPEÑO: COMPENSADOR EN FRECUENCIA
+==========================================================
+CADERA  -> MAE: 4.2180°  |  RMSE: 4.2950°
+           Esfuerzo RMS: 10.83 Nm  |  Esfuerzo Max: 19.00 Nm
+
+RODILLA -> MAE: 0.1026°  |  RMSE: 0.1260°
+           Esfuerzo RMS: 1.76 Nm  |  Esfuerzo Max: 4.42 Nm
+==========================================================
